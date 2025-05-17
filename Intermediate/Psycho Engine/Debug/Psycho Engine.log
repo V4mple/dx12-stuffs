@@ -1,0 +1,6 @@
+﻿  ObjectLoader.cpp
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\Object Loader\ObjectLoader.cpp(48,22): warning C4101: 'slash': unreferenced local variable
+  (compiling source file '/Source/Engine/Render/Object%20Loader/ObjectLoader.cpp')
+  
+  Psycho Engine.vcxproj -> D:\Repo\My Projects\Psycho Engine\Bin\Debug\Psycho Engine.dll
+  0 File(s) copied

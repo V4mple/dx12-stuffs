@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repo\\My Projects\\Psycho Engine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\Object Loader\\ObjectLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|solutionrelative:Psycho Engine\\Source\\Engine\\Render\\Object Loader\\ObjectLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\RenderDataTypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|solutionrelative:Psycho Engine\\Source\\RenderDataTypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\DirectX12\\DX12Resource\\DX12Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|solutionrelative:Psycho Engine\\Source\\Engine\\Render\\DirectX12\\DX12Resource\\DX12Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Utilities\\Utilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|solutionrelative:Psycho Engine\\Source\\Engine\\Utilities\\Utilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\DirectX12\\DX12Resource\\DX12Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|solutionrelative:Psycho Engine\\Source\\Engine\\Render\\DirectX12\\DX12Resource\\DX12Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|solutionrelative:Psycho Engine\\Source\\Engine\\Render\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|solutionrelative:Psycho Engine\\Source\\Engine\\Render\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\DirectX12\\Pipeline\\DX12PipelineState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|solutionrelative:Psycho Engine\\Source\\Engine\\Render\\DirectX12\\Pipeline\\DX12PipelineState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\Object Loader\\ObjectLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|solutionrelative:Psycho Engine\\Source\\Engine\\Render\\Object Loader\\ObjectLoader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Utilities\\Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|solutionrelative:Psycho Engine\\Source\\Engine\\Utilities\\Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|solutionrelative:Psycho Engine\\Source\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|solutionrelative:Psycho Engine\\Source\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Windows\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7711B6DB-BC75-4BDF-A5BC-0DA25501E090}|Psycho Engine\\Psycho Engine.vcxproj|solutionrelative:Psycho Engine\\Source\\Windows\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Repo\\My Projects\\Psycho Engine\\Application\\Shaders\\PS.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Shaders\\PS.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Repo\\My Projects\\Psycho Engine\\Application\\Shaders\\VS.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Shaders\\VS.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PS.hlsl",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Application\\Shaders\\PS.hlsl",
+              "RelativeDocumentMoniker": "Application\\Shaders\\PS.hlsl",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Application\\Shaders\\PS.hlsl",
+              "RelativeToolTip": "Application\\Shaders\\PS.hlsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-28T19:33:38.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VS.hlsl",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Application\\Shaders\\VS.hlsl",
+              "RelativeDocumentMoniker": "Application\\Shaders\\VS.hlsl",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Application\\Shaders\\VS.hlsl",
+              "RelativeToolTip": "Application\\Shaders\\VS.hlsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-28T19:33:34.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DX12PipelineState.cpp",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\DirectX12\\Pipeline\\DX12PipelineState.cpp",
+              "RelativeDocumentMoniker": "Psycho Engine\\Source\\Engine\\Render\\DirectX12\\Pipeline\\DX12PipelineState.cpp",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\DirectX12\\Pipeline\\DX12PipelineState.cpp",
+              "RelativeToolTip": "Psycho Engine\\Source\\Engine\\Render\\DirectX12\\Pipeline\\DX12PipelineState.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T19:11:42.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectLoader.cpp",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\Object Loader\\ObjectLoader.cpp",
+              "RelativeDocumentMoniker": "Psycho Engine\\Source\\Engine\\Render\\Object Loader\\ObjectLoader.cpp",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\Object Loader\\ObjectLoader.cpp",
+              "RelativeToolTip": "Psycho Engine\\Source\\Engine\\Render\\Object Loader\\ObjectLoader.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T19:05:10.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObjectLoader.h",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\Object Loader\\ObjectLoader.h",
+              "RelativeDocumentMoniker": "Psycho Engine\\Source\\Engine\\Render\\Object Loader\\ObjectLoader.h",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\Object Loader\\ObjectLoader.h",
+              "RelativeToolTip": "Psycho Engine\\Source\\Engine\\Render\\Object Loader\\ObjectLoader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T19:04:46.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pch.h",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\pch.h",
+              "RelativeDocumentMoniker": "Psycho Engine\\Source\\pch.h",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\pch.h",
+              "RelativeToolTip": "Psycho Engine\\Source\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T19:02:44.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\pch.cpp",
+              "RelativeDocumentMoniker": "Psycho Engine\\Source\\pch.cpp",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\pch.cpp",
+              "RelativeToolTip": "Psycho Engine\\Source\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T19:02:43.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Application.h",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Windows\\Application.h",
+              "RelativeDocumentMoniker": "Psycho Engine\\Source\\Windows\\Application.h",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Windows\\Application.h",
+              "RelativeToolTip": "Psycho Engine\\Source\\Windows\\Application.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T19:00:58.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Utilities.h",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Utilities\\Utilities.h",
+              "RelativeDocumentMoniker": "Psycho Engine\\Source\\Engine\\Utilities\\Utilities.h",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Utilities\\Utilities.h",
+              "RelativeToolTip": "Psycho Engine\\Source\\Engine\\Utilities\\Utilities.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T18:58:04.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RenderDataTypes.h",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\RenderDataTypes.h",
+              "RelativeDocumentMoniker": "Psycho Engine\\Source\\RenderDataTypes.h",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\RenderDataTypes.h",
+              "RelativeToolTip": "Psycho Engine\\Source\\RenderDataTypes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T18:57:44.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DX12Resource.cpp",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\DirectX12\\DX12Resource\\DX12Resource.cpp",
+              "RelativeDocumentMoniker": "Psycho Engine\\Source\\Engine\\Render\\DirectX12\\DX12Resource\\DX12Resource.cpp",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\DirectX12\\DX12Resource\\DX12Resource.cpp",
+              "RelativeToolTip": "Psycho Engine\\Source\\Engine\\Render\\DirectX12\\DX12Resource\\DX12Resource.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T08:25:20.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DX12Resource.h",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\DirectX12\\DX12Resource\\DX12Resource.h",
+              "RelativeDocumentMoniker": "Psycho Engine\\Source\\Engine\\Render\\DirectX12\\DX12Resource\\DX12Resource.h",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\DirectX12\\DX12Resource\\DX12Resource.h",
+              "RelativeToolTip": "Psycho Engine\\Source\\Engine\\Render\\DirectX12\\DX12Resource\\DX12Resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-28T02:03:56.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utilities.cpp",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Utilities\\Utilities.cpp",
+              "RelativeDocumentMoniker": "Psycho Engine\\Source\\Engine\\Utilities\\Utilities.cpp",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Utilities\\Utilities.cpp",
+              "RelativeToolTip": "Psycho Engine\\Source\\Engine\\Utilities\\Utilities.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T06:31:15.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Psycho Engine\\Source\\Engine\\Render\\Renderer.cpp",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\Renderer.cpp",
+              "RelativeToolTip": "Psycho Engine\\Source\\Engine\\Render\\Renderer.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T19:57:37.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\Renderer.h",
+              "RelativeDocumentMoniker": "Psycho Engine\\Source\\Engine\\Render\\Renderer.h",
+              "ToolTip": "D:\\Repo\\My Projects\\Psycho Engine\\Psycho Engine\\Source\\Engine\\Render\\Renderer.h",
+              "RelativeToolTip": "Psycho Engine\\Source\\Engine\\Render\\Renderer.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-26T19:57:35.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

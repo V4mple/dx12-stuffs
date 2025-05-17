@@ -1,0 +1,75 @@
+﻿  Renderer.cpp
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\DirectX12\DX12Device.h(22,40): warning C4251: 'Psycho::DX12Device::device': 'Microsoft::WRL::ComPtr<ID3D12Device>' needs to have dll-interface to be used by clients of 'Psycho::DX12Device'
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt\wrl\client.h(210,7):
+      see declaration of 'Microsoft::WRL::ComPtr<ID3D12Device>'
+  
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\DirectX12\CommandQueue\DX12CommandQueue.h(28,46): warning C4251: 'Psycho::DX12CommandQueue::commandQueue': 'Microsoft::WRL::ComPtr<ID3D12CommandQueue>' needs to have dll-interface to be used by clients of 'Psycho::DX12CommandQueue'
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt\wrl\client.h(210,7):
+      see declaration of 'Microsoft::WRL::ComPtr<ID3D12CommandQueue>'
+  
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\DirectX12\CommandQueue\DX12CommandQueue.h(29,39): warning C4251: 'Psycho::DX12CommandQueue::fence': 'Microsoft::WRL::ComPtr<ID3D12Fence>' needs to have dll-interface to be used by clients of 'Psycho::DX12CommandQueue'
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt\wrl\client.h(210,7):
+      see declaration of 'Microsoft::WRL::ComPtr<ID3D12Fence>'
+  
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\DirectX12\CommandList\DX12CommandList.h(23,53): warning C4251: 'Psycho::DX12CommandList::commandList': 'Microsoft::WRL::ComPtr<ID3D12GraphicsCommandList>' needs to have dll-interface to be used by clients of 'Psycho::DX12CommandList'
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt\wrl\client.h(210,7):
+      see declaration of 'Microsoft::WRL::ComPtr<ID3D12GraphicsCommandList>'
+  
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\DirectX12\CommandList\DX12CommandList.h(24,50): warning C4251: 'Psycho::DX12CommandList::allocator': 'Microsoft::WRL::ComPtr<ID3D12CommandAllocator>' needs to have dll-interface to be used by clients of 'Psycho::DX12CommandList'
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt\wrl\client.h(210,7):
+      see declaration of 'Microsoft::WRL::ComPtr<ID3D12CommandAllocator>'
+  
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\DirectX12\DXGI\DXGISwapChain.h(26,43): warning C4251: 'Psycho::DXGISwapChain::dxgiSwapChain': 'Microsoft::WRL::ComPtr<IDXGISwapChain1>' needs to have dll-interface to be used by clients of 'Psycho::DXGISwapChain'
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt\wrl\client.h(210,7):
+      see declaration of 'Microsoft::WRL::ComPtr<IDXGISwapChain1>'
+  
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\DirectX12\DXGI\DXGISwapChain.h(27,42): warning C4251: 'Psycho::DXGISwapChain::buffers': 'Microsoft::WRL::ComPtr<ID3D12Resource>' needs to have dll-interface to be used by clients of 'Psycho::DXGISwapChain'
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt\wrl\client.h(210,7):
+      see declaration of 'Microsoft::WRL::ComPtr<ID3D12Resource>'
+  
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\DirectX12\DXGI\DXGISwapChain.h(28,48): warning C4251: 'Psycho::DXGISwapChain::bufferHeap': 'Microsoft::WRL::ComPtr<ID3D12DescriptorHeap>' needs to have dll-interface to be used by clients of 'Psycho::DXGISwapChain'
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\winrt\wrl\client.h(210,7):
+      see declaration of 'Microsoft::WRL::ComPtr<ID3D12DescriptorHeap>'
+  
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\Renderer.h(41,21): warning C4251: 'Psycho::Renderer::pipeline': 'Psycho::DX12PipelineState' needs to have dll-interface to be used by clients of 'Psycho::Renderer'
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+      D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\DirectX12\Pipeline\DX12PipelineState.h(8,8):
+      see declaration of 'Psycho::DX12PipelineState'
+  
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\Renderer.h(42,16): warning C4251: 'Psycho::Renderer::dynamicVertexBuffer': 'Psycho::DX12Resource' needs to have dll-interface to be used by clients of 'Psycho::Renderer'
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+      D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\DirectX12\DX12Resource\DX12Resource.h(6,8):
+      see declaration of 'Psycho::DX12Resource'
+  
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\Renderer.h(45,16): warning C4251: 'Psycho::Renderer::constantBufferPassData': 'Psycho::DX12Resource' needs to have dll-interface to be used by clients of 'Psycho::Renderer'
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+      D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\DirectX12\DX12Resource\DX12Resource.h(6,8):
+      see declaration of 'Psycho::DX12Resource'
+  
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\Renderer.h(50,21): warning C4251: 'Psycho::Renderer::viewProjectionMatrix': 'DirectX::XMMATRIX' needs to have dll-interface to be used by clients of 'Psycho::Renderer'
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\DirectXMath.h(509,27):
+      see declaration of 'DirectX::XMMATRIX'
+  
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\Renderer.cpp(65,28): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+  
+D:\Repo\My Projects\Psycho Engine\Psycho Engine\Source\Engine\Render\Renderer.cpp(67,29): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  (compiling source file '/Source/Engine/Render/Renderer.cpp')
+  
+     Creating library D:\Repo\My Projects\Psycho Engine\Bin\Release\Psycho Engine.lib and object D:\Repo\My Projects\Psycho Engine\Bin\Release\Psycho Engine.exp
+  Generating code
+  2 of 417 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Psycho Engine.vcxproj -> D:\Repo\My Projects\Psycho Engine\Bin\Release\Psycho Engine.dll
+  0 File(s) copied
